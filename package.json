@@ -1,0 +1,19 @@
+{
+  "name": "vercelenvironmentvariables",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AxelGanter/vercelEnvironmentVariables.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AxelGanter/vercelEnvironmentVariables/issues"
+  },
+  "homepage": "https://github.com/AxelGanter/vercelEnvironmentVariables#readme"
+}
